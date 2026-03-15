@@ -1,0 +1,15 @@
+nav li a{
+    text-decoration: none;
+    
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2px 226px;
+}
